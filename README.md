@@ -1,2 +1,3 @@
 # Linko_Project
-Repo for 
+
+The Repo for the Linko Project
